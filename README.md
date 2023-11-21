@@ -112,8 +112,8 @@
   <li>
     <h3>Тест И1</h3>
     <ul>
-      <li>Методы: int fibonachi(int num), double my_sqrt(double num)</li>
-      <li>Описание: Проверяем, можно ли использовать результат работы функции fibonachi в функции my_sqrt</li>
+      <li>Методы: int fibonachi(int num), double my_sqrt(double a, double b, double c)</li>
+      <li>Описание: Проверяем, можно ли использовать результат работы функции my_sqrt в функции fibonachi</li>
       <li>Входные данные: 4</li>
       <li>Ожидаемый результат: 1.73205</li>
     </ul>	
